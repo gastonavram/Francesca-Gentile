@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gastonavram/Francesca-Gentile/master/img/banner.jpeg" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/gastonavram/Francesca-Gentile/master/img/banner.png" width="100%" alt="Banner"/>
 </div>
 
 ## Descripción
